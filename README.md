@@ -2,9 +2,8 @@
 
 About me
 ===
-  I am a graduate student of mechanical and aerospace engineering at Princeton University (PU). 
-My current research interest is the application of machine learning techniques for fusion-grade
-hot plasma control and prediction.
+  I am a graduate student of the Department of Mechanical and Aerospace Engineering at Princeton University (PU).
+My current research interest is the application of machine learning techniques for fusion-grade hot plasma control and prediction.
 
 - CV: <a href = "https://docs.google.com/document/d/1I0iYoL3cIU_G81nu2nJBemfvRpyar6Cr/edit?usp=sharing&ouid=101557440913994013881&rtpof=true&sd=true">[Minseok Kim, CV]</a>
 - Linkedin:<a href = "https://www.linkedin.com/in/minseok-kim-935a02260">[Linkedin : Minseok Kim]</a>
