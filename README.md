@@ -1,5 +1,11 @@
 ### Hi there 👋 I am Minseok Kim
 
+About me
+===
+
+- CV: <a href = "[https://docs.google.com/document/d/1I0iYoL3cIU_G81nu2nJBemfvRpyar6Cr/edit?usp=sharing&ouid=101557440913994013881&rtpof=true&sd=true">[Minseok Kim, CV]</a>
+- Linkedin:<a href = "https://www.linkedin.com/in/minseok-kim-935a02260">[Linkedin : Minseok Kim]</a>
+
 <!--
 **FusionSanbon/FusionSanbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
