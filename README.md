@@ -2,7 +2,7 @@
 
 About me
 ===
-  I am a graduate student of the Department of Mechanical and Aerospace Engineering at Princeton University (PU).
+  I am a graduate student in the department of Mechanical and Aerospace Engineering (MAE) at Princeton University (PU).
 My current research interest is the application of machine learning techniques for fusion-grade hot plasma control and prediction.
 
 <!--
